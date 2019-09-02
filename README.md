@@ -6,6 +6,7 @@ pascal voc dataset to coco format
 
 Based on
 
+```
 @misc{pascal-voc-2012,
 	author = "Everingham, M. and Van~Gool, L. and Williams, C. K. I. and Winn, J. and Zisserman, A.",
 	title = "The {PASCAL} {V}isual {O}bject {C}lasses {C}hallenge 2012 {(VOC2012)} {R}esults",
@@ -17,3 +18,4 @@ Based on
   booktitle    = "International Conference on Computer Vision (ICCV)",
   year         = "2011",
 }
+```
